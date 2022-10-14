@@ -1,0 +1,17 @@
+BẢNG LƯƠNG NHÂN VIÊN
+
+Thời gian: 06:08:39 20/07/2021
+
+	---------------------------------
+	ID	Họ Tên	Số tiền	Gioi Tinh	So DT	Email	Dia chi
+	---------------------------------
+	1	Vũ Văn Tùng	Nam	0124566789	tung@gmail.com	Dĩ an
+	2	Nguyễn Huỳnh Thanh Tùng	Nam	0124221177	thanhtung@gmail.com	Tphcm
+	3	Nguyễn Huệ	Nữ	0932212333	hue@gmail.com	15 Gò Vấp
+	4	Nguyễn Ngân	Nữ	01227971919	ngan@gmail.com	9 Lê Lợi
+	7	Trang	Nữ	23773394	trang@gmail.com	Ninh Thuận
+	---------------------------------
+	Tổng tiền lương:		24,800 VNĐ
+
+
+Người lập (Ký và ghi rõ họ tên)
